@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+![_config.yml]({{ site.baseurl }}/images/bluesemicolon_icon.png)
 
-### More Information
+저희 BLUE;과 함께 하고 싶다면 아래 메일로 연락주세요.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contact 
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[bluesemicolon@bluesemicolon.com](mailto:bluesemicolon@bluesemicolon.com)
