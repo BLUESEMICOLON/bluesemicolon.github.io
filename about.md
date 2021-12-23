@@ -11,8 +11,3 @@ BLUE;은 소프트웨어를 이용하여 온라인과 오프라인을 연결하�
 ### Contact 
 
 [bluesemicolon@bluesemicolon.com](mailto:bluesemicolon@bluesemicolon.com)
-
-<p align="center">
-    ![_config.yml]({{ site.baseurl }}/images/bluesemicolon_icon.png)
-</p>
-
